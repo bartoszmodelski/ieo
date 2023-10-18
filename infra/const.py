@@ -1,0 +1,3 @@
+RETRIES_LIMIT = 10
+TIME_TOLERANCE = 10
+test_mode = False
